@@ -9,8 +9,8 @@
             
             <!-- 抬頭 -->
             <h1 class="ts center aligned header">
-                歡迎回來
-                <div class="sub header">很高興能夠再次見到你</div>
+                Welcome back
+                <div class="sub header">We are glad to see you back.</div>
             </h1>
             <!-- / 抬頭 -->
             
@@ -23,7 +23,7 @@
                 
                     <!-- 單個欄位 -->
                     <div class="field">
-                        <label>帳號</label>
+                        <label>Username</label>
                         <input type="text" placeholder="">
                     </div>
                     <!-- / 單個欄位 -->
@@ -31,14 +31,14 @@
                     
                     <!-- 單個欄位 -->
                     <div class="field">
-                        <label>密碼</label>
+                        <label>Password</label>
                         <input type="password" placeholder="">
                     </div>
                     <!-- / 單個欄位 -->
                     
                     
                     <!-- 登入按鈕 -->
-                    <button class="ts positive fluid button" type="button">登入</button>
+                    <button class="ts positive fluid button" type="button">Sign in</button>
                     <!-- / 登入按鈕 -->
                     
                 </form>

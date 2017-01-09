@@ -22,7 +22,7 @@ export default
     },
     beforeCreate()
     {
-        document.title = '模塊 | Tocas UI'
+        document.title = 'Modules | Tocas UI'
     }
 }
 </script>

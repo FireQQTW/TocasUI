@@ -5,7 +5,7 @@
         <nav class="ts pure inverted large flatted borderless fluid menu">
             <div class="ts thinner container">
                 <a href="#!" class="item">
-                    相簿
+                    Gallery
                 </a>
             </div>
         </nav>
@@ -17,13 +17,13 @@
             <div class="ts thinner container">
                 <br>
                 <h1 class="ts header" style="font-size: 3em">
-                    相簿
+                    Gallery
                     <div class="sub header">
-                         這裡是洨安私人收藏網站。
+                         Welcome to my private gallery.
                     </div>
                 </h1>
                 <br>
-                <button class="ts button">檢視更多</button>
+                <button class="ts button">View more</button>
                 <br>
                 <br>
                 <br>
@@ -49,7 +49,7 @@
                             <img src="../images/image_placeholder_4-3.png">
                         </div>
                         <div class="left aligned content">
-                            <div class="description">相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此</div>
+                            <div class="description">Description here Description here Description here, Description here Description here Description here</div>
                         </div>
                     </div>
                     <!-- / 單個卡片 -->
@@ -61,7 +61,7 @@
                             <img src="../images/image_placeholder_4-3.png">
                         </div>
                         <div class="left aligned content">
-                            <div class="description">相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此</div>
+                            <div class="description">Description here Description here Description here, Description here Description here Description here</div>
                         </div>
                     </div>
                     <!-- / 單個卡片 -->
@@ -73,7 +73,7 @@
                             <img src="../images/image_placeholder_4-3.png">
                         </div>
                         <div class="left aligned content">
-                            <div class="description">相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此</div>
+                            <div class="description">Description here Description here Description here, Description here Description here Description here</div>
                         </div>
                     </div>
                     <!-- / 單個卡片 -->
@@ -85,7 +85,7 @@
                             <img src="../images/image_placeholder_4-3.png">
                         </div>
                         <div class="left aligned content">
-                            <div class="description">相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此</div>
+                            <div class="description">Description here Description here Description here, Description here Description here Description here</div>
                         </div>
                     </div>
                     <!-- / 單個卡片 -->
@@ -97,7 +97,7 @@
                             <img src="../images/image_placeholder_4-3.png">
                         </div>
                         <div class="left aligned content">
-                            <div class="description">相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此</div>
+                            <div class="description">Description here Description here Description here, Description here Description here Description here</div>
                         </div>
                     </div>
                     <!-- / 單個卡片 -->
@@ -109,7 +109,7 @@
                             <img src="../images/image_placeholder_4-3.png">
                         </div>
                         <div class="left aligned content">
-                            <div class="description">相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此</div>
+                            <div class="description">Description here Description here Description here, Description here Description here Description here</div>
                         </div>
                     </div>
                     <!-- / 單個卡片 -->
@@ -121,7 +121,7 @@
                             <img src="../images/image_placeholder_4-3.png">
                         </div>
                         <div class="left aligned content">
-                            <div class="description">相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此</div>
+                            <div class="description">Description here Description here Description here, Description here Description here Description here</div>
                         </div>
                     </div>
                     <!-- / 單個卡片 -->
@@ -133,7 +133,7 @@
                             <img src="../images/image_placeholder_4-3.png">
                         </div>
                         <div class="left aligned content">
-                            <div class="description">相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此</div>
+                            <div class="description">Description here Description here Description here, Description here Description here Description here</div>
                         </div>
                     </div>
                     <!-- / 單個卡片 -->
@@ -145,7 +145,7 @@
                             <img src="../images/image_placeholder_4-3.png">
                         </div>
                         <div class="left aligned content">
-                            <div class="description">相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此，相片簡介插入於此相片簡介插入於此</div>
+                            <div class="description">Description here Description here Description here, Description here Description here Description here</div>
                         </div>
                     </div>
                     <!-- / 單個卡片 -->
@@ -167,9 +167,9 @@
             <div class="ts thinner container">
                 <br>
                 <h4 class="ts huge header">
-                    Tocas UI 相簿範例
+                    Tocas UI Gallery Example
                     <div class="smaller sub header">
-                        由 Yami Odymel 製作
+                        Made by Yami Odymel
                     </div>
                 </h4>
                 <br>
@@ -186,7 +186,7 @@ export default
 {
     beforeCreate()
     {
-        document.title = '相簿範例 | Tocas UI'
+        document.title = 'Gallery Example | Tocas UI'
     }
 }
 </script>

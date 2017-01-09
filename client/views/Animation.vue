@@ -20,7 +20,7 @@ export default
     },
     beforeCreate()
     {
-        document.title = '動畫 | Tocas UI'
+        document.title = 'Animations | Tocas UI'
     }
 }
 </script>

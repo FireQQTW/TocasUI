@@ -10,7 +10,7 @@ export default
 {
     header:
     {
-        title   : '響應式',
+        title   : 'Responsive',
         subTitle:
         `
             協助你能夠在不同裝置上更加地得心應手。
@@ -20,7 +20,7 @@ export default
     [
         {
             type       : large,
-            title      : '說明',
+            title      : 'Description',
             description: 'Tocas UI 內建數個響應式輔助樣式，這可以協助你在指定裝置上顯示或是隱藏一些元素。'
         },
         {

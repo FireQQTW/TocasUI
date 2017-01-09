@@ -2,15 +2,15 @@
     <nav class="ts horizontally scrollable large fluid borderless pure basic menu">
         <div class="ts narrow container">
             <router-link class="item" to="/">Tocas UI</router-link>
-            <router-link class="item" to="/getting-started/">從這開始</router-link>
-            <router-link class="item" to="/elements/">一般元素</router-link>
-            <router-link class="item" to="/collections/">聚合型</router-link>
-            <router-link class="item" to="/modules/">模塊</router-link>
-            <router-link class="item" to="/views/">視圖型</router-link>
+            <router-link class="item" to="/getting-started/">Getting Started</router-link>
+            <router-link class="item" to="/elements/">Elements</router-link>
+            <router-link class="item" to="/collections/">Collections</router-link>
+            <router-link class="item" to="/modules/">Modules</router-link>
+            <router-link class="item" to="/views/">Views</router-link>
             <!--<router-link class="item" to="/animation/">動畫</router-link>-->
-            <router-link class="item" to="/rwd/">響應式</router-link>
+            <router-link class="item" to="/rwd/">Responsive</router-link>
             <div class="right menu">
-                <a class="item" href="//patreon.com/yamiodymel">贊助</a>
+                <a class="item" href="//patreon.com/yamiodymel">Donate</a>
                 <a class="item" href="//github.com/TeaMeow/TocasUI/">Github</a>
             </div>
         </div>

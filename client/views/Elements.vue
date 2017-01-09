@@ -20,7 +20,7 @@ export default
     },
     beforeCreate()
     {
-        document.title = '一般元素 | Tocas UI'
+        document.title = 'Elements | Tocas UI'
     }
 }
 </script>

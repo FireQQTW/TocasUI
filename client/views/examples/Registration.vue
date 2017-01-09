@@ -16,8 +16,8 @@
                 
                 <!-- 標題 -->
                 <h1 class="ts header">
-                    註冊會員
-                    <div class="sub header">初次見面，歡迎加入 TeaMeow！</div>
+                    Join us
+                    <div class="sub header">Hi there! It's glad to see you are joining TeaMeow!</div>
                 </h1>
                 <!-- / 標題 -->
                 
@@ -39,7 +39,7 @@
                     
                     <!-- 單個欄位 -->
                     <div class="basic success field">
-                        <label>使用者帳號</label>
+                        <label>Username</label>
                         <input type="text" placeholder="">
                         <small>必須是英文字母或混搭數字，且最少 6 字，最多 24 字。</small>
                     </div>
@@ -48,7 +48,7 @@
                     
                     <!-- 單個欄位 -->
                     <div class="basic error field">
-                        <label>暱稱</label>
+                        <label>Nickname</label>
                         <input type="text" placeholder="">
                         <small>替自己取一個獨一無二的暱稱，你可以在事後更改。</small>
                     </div>
@@ -60,7 +60,7 @@
                 
                 <!-- 單個欄位 -->
                 <div class="field">
-                    <label>電子郵件地址</label>
+                    <label>Email address</label>
                     <input type="text" placeholder="">
                 </div>
                 <!-- / 單個欄位 -->
@@ -68,7 +68,7 @@
                 
                 <!-- 單個欄位 -->
                 <div class="field">
-                    <label>密碼</label>
+                    <label>Password</label>
                     <input type="password" placeholder="">
                     <small>僅能是英文字母和數字，且最少 8 字，最多 80 字。</small>
                 </div>
@@ -80,7 +80,7 @@
                     
                     <!-- 單個欄位 -->
                     <div class="field">
-                        <label>生日</label>
+                        <label>Birthday</label>
                         
                         <!-- 下拉式選單群組 -->
                         <div class="ts relaxed fluid dropdowns">
@@ -103,21 +103,21 @@
                     
                     <!-- 單個欄位 -->
                     <div class="field">
-                        <label>性別</label>
+                        <label>Gender</label>
                         
                         <!-- 單選方塊群組 -->
                         <div class="ts center aligned compact horizontal checkboxes">
                             <div class="ts radio checkbox">
                                 <input type="radio" name="gender" id="genderMale" checked="checked">
-                                <label for="genderMale">男性</label>
+                                <label for="genderMale">Male</label>
                             </div>
                             <div class="ts radio checkbox">
                                 <input type="radio" name="gender" id="genderFemale">
-                                <label for="genderFemale">女性</label>
+                                <label for="genderFemale">Female</label>
                             </div>
                             <div class="ts radio checkbox">
                                 <input type="radio" name="gender" id="genderThird">
-                                <label for="genderThird">第三性</label>
+                                <label for="genderThird">Transgender</label>
                             </div>
                         </div>
                         <!-- / 單選方塊群組 -->
@@ -130,7 +130,7 @@
                 
                 
                 <!-- 按鈕 -->
-                <button class="ts fluid primary button" type="button">下一步</button>
+                <button class="ts fluid primary button" type="button">Next</button>
                 <!-- / 按鈕 -->
                 
                 
@@ -155,7 +155,7 @@ export default
 {
     beforeCreate()
     {
-        document.title = '註冊範例 | Tocas UI'
+        document.title = 'Registration Example | Tocas UI'
     }
 }
 </script>

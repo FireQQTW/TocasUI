@@ -2,7 +2,7 @@ export default
 {
     header:
     {
-        title   : '視圖型',
+        title   : 'Views',
         subTitle:
         `
             偏於外觀類的元件。

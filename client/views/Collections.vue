@@ -22,7 +22,7 @@ export default
     },
     beforeCreate()
     {
-        document.title = '聚合型 | Tocas UI'
+        document.title = 'Collections | Tocas UI'
     }
 }
 </script>

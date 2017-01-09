@@ -1,7 +1,7 @@
 <template>
     <main>
         <doc-nav></doc-nav>
-        <doc-jumbotron title="關於" subTitle="關於 Tocas UI 的開發歷程，還有其中瑣碎的事物。"></doc-jumbotron>
+        <doc-jumbotron title="About" subTitle="關於 Tocas UI 的開發歷程，還有其中瑣碎的事物。"></doc-jumbotron>
         <section class="ts narrow container">
             <h2>歷史</h2>
             <p>
@@ -84,7 +84,7 @@ export default
     beforeCreate()
     {
         window.RENDER_STARTED_TIME = new Date().getTime()
-        document.title = '關於 | Tocas UI'
+        document.title = 'About | Tocas UI'
     },
     mounted()
     {

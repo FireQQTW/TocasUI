@@ -4,17 +4,17 @@
             <ul class="ts relaxed link list">
                 <li>
                     <a class="to top" href="#!" @click="toTop()">
-                        <i class="arrow up icon"></i> 回到頂部
+                        <i class="arrow up icon"></i> Back to top
                     </a>
                 </li>
                 <li>
                     <a href="//github.com/TeaMeow/TocasUI/">Github</a>
                 </li>
                 <li>
-                    <router-link to="/examples/">實際範例</router-link>
+                    <router-link to="/examples/">Examples</router-link>
                 </li>
                 <li>
-                    <router-link to="/about/">關於</router-link>
+                    <router-link to="/about/">About</router-link>
                 </li>
             </ul>
             <p>
@@ -25,7 +25,7 @@
                 還請盡情地使用和分享，或者是一同改進 :)
             </p>
             <p class="render time">
-                本頁渲染速度：{{this.$store.state.renderTime}} ms
+                Rendered time: {{this.$store.state.renderTime}} ms
             </p>
         </div>
     </footer>

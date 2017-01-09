@@ -2,7 +2,7 @@ export default
 {
     header:
     {
-        title   : '模塊',
+        title   : 'Modules',
         subTitle:
         `
             較獨立的元件。

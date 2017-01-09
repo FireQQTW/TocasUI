@@ -8,12 +8,12 @@
                 <h1 class="ts center aligned header">
                     Tocas UI 2
                     <br>
-                    <small class="sub header">這裡迎來新世界</small>
+                    <small class="sub header">Here comes another world.</small>
                 </h1>
                 <br>
                 <br>
                 <br>
-                <p>現在開始試用！</p>
+                <p>Try it now!</p>
                 <div class="ts three column stackable grid">
                     <div class="column"></div>
                     <div class="column">
@@ -35,10 +35,10 @@
 
                 <!-- 左側說明 -->
                 <div class="eight wide column">
-                    <h2 class="ts header">更有意義</h2>
-                    <p>Tocas UI 以更有意義的方式來命名類別名稱，</p>
-                    <p>就像是你直接稱呼這個元素一樣地親切。</p>
-                    <p>程式已經夠枯燥乏味了，別再讓人生也繼續枯燥下去。</p>
+                    <h2 class="ts header">More semantically</h2>
+                    <p>Tocas UI named the classes with a semantic way,</p>
+                    <p>just like saying hello to the elements directly.</p>
+                    <p>Programming is boring, so your life, we can stop this now.</p>
                     <p>&nbsp;</p>
                 </div>
                 <!-- / 左側說明 -->
@@ -48,14 +48,14 @@
                 <div class="eight wide column">
                     <h3 class="ts header">HTML</h3>
                     <pre class="ts padded segment"><code class="hljs">&lt;div class=&quot;ts fluid buttons&quot;&gt;
-    &lt;button class=&quot;ts button&quot;&gt;卡莉絲&lt;/button&gt;
-    &lt;button class=&quot;ts button&quot;&gt;亞凡芽&lt;/button&gt;
-    &lt;button class=&quot;ts warning button&quot;&gt;橙希&lt;/button&gt;
+    &lt;button class=&quot;ts button&quot;&gt;Caris&lt;/button&gt;
+    &lt;button class=&quot;ts button&quot;&gt;Avane&lt;/button&gt;
+    &lt;button class=&quot;ts warning button&quot;&gt;Orenji&lt;/button&gt;
 &lt;/div&gt;</code></pre>
                     <div class="ts fluid buttons">
-                        <button class="ts button">卡莉絲</button>
-                        <button class="ts button">亞凡芽</button>
-                        <button class="ts warning button">橙希</button>
+                        <button class="ts button">Caris</button>
+                        <button class="ts button">Avane</button>
+                        <button class="ts warning button">Orenji</button>
                     </div>
                 </div>
                 <!-- / 右側示範 -->
@@ -70,7 +70,7 @@
 
                 <!-- 左側說明 -->
                 <div class="sixteen wide column">
-                    <h2 class="ts header">更具結構性</h2>
+                    <h2 class="ts header">Structure-ful</h2>
                     <p>很多框架都是為了達到特殊外觀，</p>
                     <p>而新增了很多不必要的 HTML 結構，但在這裡將有所改善。</p>
                     <p>下列是一個簡單的導航欄選單，並與傳統 Bootstrap v4 比較。</p>
@@ -83,11 +83,11 @@
                 <div class="eight wide column">
                     <h3 class="ts header">Tocas UI</h3>
                     <pre class="ts padded segment"><code class="hljs">&lt;nav class=&quot;ts menu&quot;&gt;
-    &lt;a class=&quot;header item&quot;&gt;商標&lt;/a&gt;
-    &lt;a class=&quot;active item&quot;&gt;首頁&lt;/a&gt;
-    &lt;a class=&quot;item&quot;&gt;特色&lt;/a&gt;
-    &lt;a class=&quot;item&quot;&gt;價格&lt;/a&gt;
-    &lt;a class=&quot;item&quot;&gt;關於&lt;/a&gt;
+    &lt;a class=&quot;header item&quot;&gt;Brand&lt;/a&gt;
+    &lt;a class=&quot;active item&quot;&gt;Home&lt;/a&gt;
+    &lt;a class=&quot;item&quot;&gt;Feature&lt;/a&gt;
+    &lt;a class=&quot;item&quot;&gt;Price&lt;/a&gt;
+    &lt;a class=&quot;item&quot;&gt;About&lt;/a&gt;
 &lt;/nav&gt;</code></pre>
                     <p>&nbsp;</p>
                 </div>
@@ -98,19 +98,19 @@
                 <div class="eight wide column">
                     <h3 class="ts header">Bootstrap v4</h3>
                     <pre class="ts padded segment"><code class="hljs">&lt;nav class=&quot;navbar navbar-light bg-faded&quot;&gt;
-    &lt;a class=&quot;navbar-brand&quot;&gt;商標&lt;/a&gt;
+    &lt;a class=&quot;navbar-brand&quot;&gt;Brand&lt;/a&gt;
     &lt;ul class=&quot;nav navbar-nav&quot;&gt;
         &lt;li class=&quot;nav-item active&quot;&gt;
-            &lt;a class=&quot;nav-link&quot;&gt;首頁&lt;/a&gt;
+            &lt;a class=&quot;nav-link&quot;&gt;Home&lt;/a&gt;
         &lt;/li&gt;
         &lt;li class=&quot;nav-item&quot;&gt;
-            &lt;a class=&quot;nav-link&quot;&gt;特色&lt;/a&gt;
+            &lt;a class=&quot;nav-link&quot;&gt;Feature&lt;/a&gt;
         &lt;/li&gt;
         &lt;li class=&quot;nav-item&quot;&gt;
-            &lt;a class=&quot;nav-link&quot;&gt;價格&lt;/a&gt;
+            &lt;a class=&quot;nav-link&quot;&gt;Price&lt;/a&gt;
         &lt;/li&gt;
         &lt;li class=&quot;nav-item&quot;&gt;
-            &lt;a class=&quot;nav-link&quot;&gt;關於&lt;/a&gt;
+            &lt;a class=&quot;nav-link&quot;&gt;About&lt;/a&gt;
         &lt;/li&gt;
     &lt;/ul&gt;
 &lt;/nav&gt;</code></pre>
@@ -134,9 +134,9 @@
                     <!-- 區塊標題 -->
                     <h2 class="ts center aligned icon header">
                         <i class="gift icon" style="font-size: 128px"></i>
-                        眾多搭配
+                        Mix together
                         <small class="sub header">
-                            元件除了可以單獨使用，還可以混搭著使用
+                            Use the component alone, or mix them together.
                         </small>
                     </h2>
                     <!-- / 區塊標題 -->
@@ -147,15 +147,15 @@
                 <div class="four wide column">
 
                     <!-- 圖片卡片 -->
-                    <h4 class="ts header">圖片卡片</h4>
+                    <h4 class="ts header">Image card</h4>
                     <div class="ts card">
                         <div class="image">
                             <img src="./images/image_placeholder_4-3.png">
                         </div>
                         <div class="content">
-                            <div class="header">iPhone 7 開賣！</div>
+                            <div class="header">iPhone 7 is now on sale!</div>
                             <div class="meta">
-                                <a href="#!">兩天前</a>
+                                <a href="#!">two days ago</a>
                             </div>
                         </div>
                     </div>
@@ -163,34 +163,34 @@
 
 
                     <!-- 垂直選單 -->
-                    <h4 class="ts header">垂直選單</h4>
+                    <h4 class="ts header">Vertical menu</h4>
                     <div class="ts vertical inverted positive menu">
                         <a class="item">
-                            <i class="picture icon"></i> 相片
+                            <i class="picture icon"></i> Photos
                         </a>
                         <a class="item">
-                            <i class="users icon"></i> 群組
+                            <i class="users icon"></i> Groups
                         </a>
                         <a class="item">
-                            <i class="star icon"></i> 收藏
+                            <i class="star icon"></i> Marks
                         </a>
                     </div>
                     <!-- / 垂直選單 -->
 
 
                     <!-- 標籤 -->
-                    <h4 class="ts header">標籤</h4>
+                    <h4 class="ts header">Label</h4>
                     <div class="ts label">
                         <i class="gift icon"></i>
-                        標籤
+                        Label
                     </div>
                     <div class="ts image label">
                         <img src="./images/image_placeholder_user.png">Yami Odymel</div>
                     <div class="ts image label">
                         <img src="./images/image_placeholder_user2.png">Xiaoan</div>
                     <div class="ts image label">
-                        <img src="./images/image_placeholder_user3.png">卡莉絲
-                        <div class="detail">實況主</div>
+                        <img src="./images/image_placeholder_user3.png">Caris
+                        <div class="detail">Youtuber</div>
                     </div>
                     <div class="ts circular primary label">9</div>
                     <div class="ts circular info label">14</div>
@@ -206,7 +206,7 @@
                 <div class="eight wide column">
 
                     <!-- 文章卡片 -->
-                    <h4 class="ts header">文章卡片</h4>
+                    <h4 class="ts header">Typography card</h4>
                     <div class="ts card">
                         <div class="content">
                             <div class="header">
@@ -217,9 +217,9 @@
                                 <div>2 mins     </div>
                             </div>
                             <div class="description">
-                                <p>看似最重要的東西卻沒能被妥善利用，</p>
-                                <p>沒有人能發現這一點，因為他們早已活在過去，</p>
-                                <p>才剛開始的序章卻被放在頁尾。</p>
+                                <p>The most important thing is nothing,</p>
+                                <p>nobody realized it, because they living in the past,</p>
+                                <p>where we started is now the end.</p>
                             </div>
                         </div>
                     </div>
@@ -227,7 +227,7 @@
 
 
                     <!-- 圖案選單 -->
-                    <h4 class="ts header">圖案選單</h4>
+                    <h4 class="ts header">Icon menu</h4>
                     <div class="ts icon inverted info borderless menu">
                         <a class="item">
                             <i class="bell icon"></i>
@@ -243,32 +243,32 @@
 
 
                     <!-- 按鈕群組 -->
-                    <h4 class="ts header">按鈕群組</h4>
+                    <h4 class="ts header">Button group</h4>
                     <div class="ts fluid buttons">
-                        <button class="ts button">按鈕</button>
-                        <button class="ts warning button">小心</button>
-                        <button class="ts negative button">不好了！</button>
-                        <button class="ts loading primary button">按鈕</button>
+                        <button class="ts button">Button</button>
+                        <button class="ts warning button">Careful</button>
+                        <button class="ts negative button">Damn!</button>
+                        <button class="ts loading primary button">Button</button>
                     </div>
                     <!-- / 按鈕群組 -->
 
 
                     <!-- 表單 -->
-                    <h4 class="ts header">表單</h4>
+                    <h4 class="ts header">Form</h4>
                     <div class="ts segment">
                         <form class="ts form">
                             <div class="field">
-                                <label>真實姓名</label>
+                                <label>Realname</label>
                                 <div class="two fields">
                                     <div class="field">
-                                        <input type="text" placeholder="姓氏">
+                                        <input type="text" placeholder="First Name">
                                     </div>
                                     <div class="field">
-                                        <input type="text" placeholder="名字">
+                                        <input type="text" placeholder="Last Name">
                                     </div>
                                 </div>
                             </div>
-                            <button class="ts button">送出</button>
+                            <button class="ts button">Submit</button>
                         </form>
                     </div>
                     <!-- / 表單 -->
@@ -281,7 +281,7 @@
                 <div class="four wide column">
 
                     <!-- 讀取中的段落 -->
-                    <h4 class="ts header">讀取中的段落</h4>
+                    <h4 class="ts header">Loading segment</h4>
                     <div class="ts loading segment">
                         <p>&nbsp;</p>
                         <p>&nbsp;</p>
@@ -291,7 +291,7 @@
 
 
                     <!-- 浮起來的段落 -->
-                    <h4 class="ts header">浮起段落和引言</h4>
+                    <h4 class="ts header">Raised segment</h4>
                     <div class="ts raised segment">
                         <blockquote class="ts quote">
                             <p>你將看見一個魔法師的日常生活，</p>
@@ -303,7 +303,7 @@
 
 
                     <!-- 留言 -->
-                    <h4 class="ts header">留言</h4>
+                    <h4 class="ts header">Comments</h4>
                     <div class="ts segment">
                         <div class="ts comments">
                             <div class="comment">
@@ -313,15 +313,15 @@
                                 <div class="content">
                                     <a class="author">Mac Taylor</a>
                                     <div class="metadata">
-                                        <div>2 天前</div>
+                                        <div>2d</div>
                                         <div>
                                             <i class="star icon"></i>
-                                            5 次收藏
+                                            5 likes
                                         </div>
                                     </div>
                                     <div class="text">
-                                        如果你有去釣魚大賽，你可能會被禁止進入：<br>
-                                        「我們不歡迎職業選手」
+                                        You'll be kicked out from a fishing tournament,<br>
+                                        because a pro is not welcome.
                                     </div>
                                 </div>
                             </div>
@@ -332,10 +332,10 @@
                                 <div class="content">
                                     <a class="author">Yami Odymel</a>
                                     <div class="metadata">
-                                        <div>42 分鐘前</div>
+                                        <div>42m</div>
                                     </div>
                                     <div class="text">
-                                        你很機車人
+                                        You are so motorcycle desu.
                                     </div>
                                 </div>
                             </div>
@@ -360,9 +360,9 @@
                 <!-- 區塊標題 -->
                 <h2 class="ts center aligned icon header">
                     <i class="smile icon" style="font-size: 128px"></i>
-                    看看用戶怎麼說
+                    A word from our users
                     <small class="sub header">
-                        他們對 Tocas UI 的評價
+                        See how they feel with Tocas UI
                     </small>
                 </h2>
                 <!-- / 區塊標題 -->
@@ -386,9 +386,9 @@
 
                         <!-- 引言 -->
                         <blockquote>
-                            <p>Gan 我快哭了</p>
-                            <p>感動屎了</p>
-                            <p>我的淚</p>
+                            <p>Fuck, I'm almost cried</p>
+                            <p>cried alot</p>
+                            <p>my tears</p>
                         </blockquote>
                         <!-- / 引言 -->
 
@@ -411,8 +411,8 @@
 
                         <!-- 引言 -->
                         <blockquote>
-                            <p>等很久了</p>
-                            <p>請問什麼時候換 TeaMeow v1.0.0？</p>
+                            <p>I've waited this for so long,</p>
+                            <p>When can we see TeaMeow v1.0.0?</p>
                         </blockquote>
                         <!-- / 引言 -->
 

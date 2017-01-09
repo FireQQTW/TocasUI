@@ -10,7 +10,7 @@ export default
 {
     header:
     {
-        title   : '從這開始',
+        title   : 'Getting Started',
         subTitle:
         `
             人生已經很無聊了，別讓你的網頁也再無聊下去

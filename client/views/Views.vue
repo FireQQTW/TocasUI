@@ -22,7 +22,7 @@ export default
     },
     beforeCreate()
     {
-        document.title = '視圖型 | Tocas UI'
+        document.title = 'Views | Tocas UI'
     }
 }
 </script>

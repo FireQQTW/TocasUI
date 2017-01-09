@@ -5,13 +5,13 @@
         <nav class="ts pure inverted info large flatted borderless fluid basic menu">
             <div class="ts very narrow container">
                 <div class="header item">
-                    聊天室
+                    Chatroom
                 </div>
                 <a href="#!" class="item">
-                    大廳
+                    Lobby
                 </a>
                 <a href="#!" class="item">
-                    好友清單
+                    Friend list
                 </a>
                 <div class="right menu">
                     <a href="#!" class="item">
@@ -47,7 +47,7 @@
                                 </div>
                                 <div class="content">
                                     <div class="text">
-                                        早安！！！！
+                                        Good morning!!
                                     </div>
                                     
                                     <div class="bulleted meta">
@@ -68,7 +68,7 @@
                                 </div>
                                 <div class="content">
                                     <div class="text">
-                                        嗨
+                                        Hi
                                     </div>
                                     
                                     <div class="bulleted meta">
@@ -89,7 +89,7 @@
                                 </div>
                                 <div class="content">
                                     <div class="text">
-                                        囉哈
+                                        LOHA
                                     </div>
                                     
                                     <div class="bulleted meta">
@@ -122,8 +122,8 @@
                     <!-- 上部片段 -->
                     <div class="ts secondary segment">
                         <h4 class="ts header">
-                            在線清單
-                            <div class="smaller sub header">6 個人在線・最高 31 人</div>
+                            Online list
+                            <div class="smaller sub header">6 users・max 31</div>
                         </h4>
                     </div>
                     <!-- / 上部片段 -->
@@ -137,7 +137,7 @@
                             <a href="#" class="item">yamiodymel</a>
                             <a href="#" class="item">aoiCera</a>
                             <a href="#" class="item">Orenji_Nozomi</a>
-                            <a href="#" class="item">羽田白音</a>
+                            <a href="#" class="item">Haneda Shirone</a>
                             <a href="#" class="item">hpcslag</a>
                             <a href="#" class="item">karisu</a>
                         </div>
@@ -159,12 +159,12 @@
                 <!-- 資訊網格系統 -->
                 <div class="ts two column grid">
                     <div class="column">
-                        目前身份：<strong>yamiodymel</strong>
+                        Current account: <strong>yamiodymel</strong>
                     </div>
                     <div class="right aligned column">
                         <div class="ts toggle checkbox">
                             <input type="checkbox" id="afk">
-                            <label for="afk">暫離</label>
+                            <label for="afk">AFK</label>
                         </div>
                     </div>
                 </div>
@@ -182,8 +182,8 @@
                 <br>
                 
                 <!-- 按鈕 -->
-                <button class="ts small right floated primary button">送出</button>
-                <button class="ts small right floated negative button" style="margin-right: 8px">退出聊天室</button>
+                <button class="ts small right floated primary button">Send</button>
+                <button class="ts small right floated negative button" style="margin-right: 8px">Disconnect</button>
                 <!-- / 按鈕 -->
                 
             </div>
@@ -201,7 +201,7 @@ export default
 {
     beforeCreate()
     {
-        document.title = '相簿範例 | Tocas UI'
+        document.title = 'Chatroom Example | Tocas UI'
     }
 }
 </script>

@@ -20,7 +20,7 @@ export default
     },
     beforeCreate()
     {
-        document.title = '響應式輔助樣式 | Tocas UI'
+        document.title = 'Responsive | Tocas UI'
     }
 }
 </script>

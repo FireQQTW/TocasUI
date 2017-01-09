@@ -2,49 +2,49 @@ export default
 {
     header:
     {
-        title   : '範例',
+        title   : 'Examples',
         subTitle:
         `
-            以 Tocas UI 所打造的範例頁面。
+            Those examples which are made with Tocas UI.
         `
     },
     cards:
     [
         {
-            title      : '部落格',
-            class      : 'Blog',
+            title      : 'Blog',
+            class      : '',
             link       : '/examples/blog/',
-            description: '一個運用文字的極簡部落格。'
+            description: 'A minimal blog.'
         },
         {
-            title      : '登入頁面',
-            class      : 'Login',
+            title      : 'Login',
+            class      : '',
             link       : '/examples/login/',
-            description: '和輸入欄位所搭配的登入頁面。'
+            description: 'The login page with a few inputs.'
         },
         {
-            title      : '註冊頁面',
-            class      : 'Registration',
+            title      : 'Registration',
+            class      : '',
             link       : '/examples/registration/',
-            description: '運用進階表單元件所達成的註冊頁面。'
+            description: 'The registration with the form component.'
         },
         {
-            title      : '便利貼',
-            class      : 'Notes',
+            title      : 'Notes',
+            class      : '',
             link       : '/examples/notes/',
-            description: '簡單的便利貼記事頁面設計樣本。'
+            description: 'A notes example with a Google Keep-like style.'
         },
         {
-            title      : '相簿',
-            class      : 'Gallery',
+            title      : 'Gallery',
+            class      : '',
             link       : '/examples/gallery/',
-            description: '和網格系統，卡片所建構而成的簡易相簿頁面。'
+            description: 'A minimal gallery which were made with the grid system and the cards.'
         },
         {
-            title      : '輕量級聊天室',
-            class      : 'Chatroom',
+            title      : 'Chatroom',
+            class      : '',
             link       : '/examples/chatroom/',
-            description: '搭配聊天室元件和線上清單的簡單範本。'
+            description: 'A simple chat component with the online user list.'
         },
     ]
 }

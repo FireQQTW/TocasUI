@@ -18,9 +18,9 @@
                 
                     <!-- 標題 -->
                     <h1 class="ts center aligned header">
-                        便利貼
+                        Notes
                         <div class="sub header">
-                            在這裡留下你想保存的事物。
+                            Leave everything you want to leave.
                         </div>
                     </h1>
                     <!-- / 標題 -->
@@ -37,7 +37,7 @@
                     
                         <!-- 輸入欄位 -->
                         <div class="ts borderless horizontally fitted fluid input">
-                            <textarea placeholder="在此輸入你想保存的話語⋯"></textarea>
+                            <textarea placeholder="Enter the thing you want to leave..."></textarea>
                         </div>
                         <!-- / 輸入欄位 -->
                         
@@ -47,12 +47,12 @@
                             
                             <div class="six wide column" style="display: flex; align-items: center">
                                 <div class="ts tiny faded fitted basic message">
-                                    按下 Shift+Enter 送出。
+                                    Send by pressing Shift+Enter.
                                 </div>
                             </div>
                             
                             <div class="ten wide column">
-                                <button class="ts primary right floated mini button">送出</button>
+                                <button class="ts primary right floated mini button">Send</button>
                             </div>
                         
                         </div>
@@ -69,21 +69,21 @@
                 <div class="sixteen wide column">
                 
                     <!-- 瀑布流卡片群組 -->
-                    <div class="ts stackable waterfall cards">
+                    <div class="ts stackable three waterfall cards">
                     
                         <!-- 單張卡片 -->
                         <div class="ts card">
                             <div class="content">
-                                <div class="header">史萊姆</div>
+                                <div class="header">Slime</div>
                                 <div class="meta">
-                                    <div>一天前</div>
+                                    <div>1d</div>
                                 </div>
                             </div>
                             <div class="image">
                                 <img src="../images/image_placeholder_4-3.png">
                             </div>
                             <div class="content">
-                                <div class="description">我家養的史萊姆 :D</div>
+                                <div class="description">I pet a slime :D</div>
                             </div>
                         </div>
                         <!-- / 單張卡片 -->
@@ -92,9 +92,9 @@
                         <!-- 單張卡片 -->
                         <div class="ts card">
                             <div class="content">
-                                <div class="header">台灣－維基百科</div>
+                                <div class="header">Taiwan - Wikipedia</div>
                                 <div class="meta">
-                                    <div>一天前</div>
+                                    <div>1d</div>
                                 </div>
                                 <div class="description">
                                     <p>歷經日治時期所打下的現代化基礎、以及中華民國政府遷臺後運用美援所進行的一系列經濟建設，臺灣自1960年代起在經濟與社會發展上突飛猛進，締造舉世聞名的臺灣奇蹟，名列亞洲四小龍之一；之後在1990年代躋身已開發國家之列，目前無論人均所得或人類發展指數均具世界先進國家水準。臺灣擁有蓬勃的製造業及尖端科技，在半導體、資訊科技、通訊、電子精密製造等領域執牛耳。貿易方面主要透過高科技產業賺取外匯，經濟發展上以高科技產業與服務業為中心，亦朝向文化產業及觀光業發展。</p>
@@ -107,9 +107,9 @@
                         <!-- 單張卡片 -->
                         <div class="ts card">
                             <div class="content">
-                                <div class="header">Semantic UI 片段</div>
+                                <div class="header">Semantic UI fragments</div>
                                 <div class="meta">
-                                    <div>一天前</div>
+                                    <div>1d</div>
                                 </div>
                                 <div class="description">
                                     <p>@styledWidth: 600px;
@@ -133,9 +133,9 @@
                         <!-- 單張卡片 -->
                         <div class="ts card">
                             <div class="content">
-                                <div class="header">我的密碼</div>
+                                <div class="header">My pwds</div>
                                 <div class="meta">
-                                    <div>一天前</div>
+                                    <div>1d</div>
                                 </div>
                                 <div class="description">
                                     <p>Facebook: yeedali1234556789</p>
@@ -149,9 +149,9 @@
                         <!-- 單張卡片 -->
                         <div class="ts card">
                             <div class="content">
-                                <div class="header">台灣 2</div>
+                                <div class="header">Taiwan 2</div>
                                 <div class="meta">
-                                    <div>兩天前</div>
+                                    <div>2d</div>
                                 </div>
                                 <div class="description">
                                     <p>臺灣，舊稱福爾摩沙，是位於亞洲東部、太平洋西北側的島嶼，地處琉球群島與菲律賓群島之間，西隔臺灣海峽與歐亞大陸相望。島嶼面積約3.6萬平方公里，為世界第38大島嶼，其中7成為山地與丘陵，平原則主要集中於西部沿海，地形海拔變化大。</p>
@@ -166,7 +166,7 @@
                             <div class="content">
                                 <div class="header">Tocas 介紹</div>
                                 <div class="meta">
-                                    <div>一天前</div>
+                                    <div>1d</div>
                                 </div>
                                 <div class="description">
                                     <p>更簡潔，沒有像 Bootstrap 那樣雜亂的樣式名稱。（如：.m-l-1, .p-x-2, .p-a-3）</p>
